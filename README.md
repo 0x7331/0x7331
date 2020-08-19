@@ -7,5 +7,3 @@
 - 18 yo
 - Country : Switzerland.
 - Want : Learn.
-- Discord : 0x7331#1337.
-
