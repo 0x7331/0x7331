@@ -6,4 +6,3 @@
 ### Info
 - 18 yo
 - Country : Switzerland.
-- Want : Learn.
